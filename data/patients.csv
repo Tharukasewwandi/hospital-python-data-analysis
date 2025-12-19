@@ -1,0 +1,7 @@
+patient_id,age,gender,disease,admission_date,discharge_date,bill_amount
+1,45,Male,Diabetes,1/5/2024,1/10/2024,55000
+2,30,Female,Fever,1/7/2024,1/9/2024,12000
+3,60,Male,Heart Disease,1/10/2024,1/20/2024,150000
+4,25,Female,Dengue,1/12/2024,1/18/2024,40000
+5,50,Male,Diabetes,1/15/2024,1/22/2024,60000
+6,35,Female,Fever,1/18/2024,1/20/2024,15000
